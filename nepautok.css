@@ -1,7 +1,10 @@
 #container {
+	width: 700px;
 	padding: 20px;
 	border-radius: 5px;
 	box-shadow: 0px 5px 15px grey;
+	margin-top: 50px;
+	margin-bottom: 50px;
 }
 
 .left {
