@@ -14,7 +14,12 @@
 	margin-bottom: 10px;
 }
 a:hover {
-color: chocolate
-);
 
+color: chocolate;
+}
+
+a {
+	color: darkgray;
+	background-color: lightgray;
+	text-decoration: none;
 }
